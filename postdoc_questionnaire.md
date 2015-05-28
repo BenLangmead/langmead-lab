@@ -47,7 +47,6 @@ The rest of this document is a worksheet for you to fill in and keep updated.  W
 ### How will you be funded?
 
 * What grants will you apply for during your time here?  What are the deadlines?
-* What is your timeline? 
 * What grants will you apply for in in the future (if you are going academic)? 
 * How else can you exhibit your ability to work independently?
 
@@ -57,8 +56,7 @@ The rest of this document is a worksheet for you to fill in and keep updated.  W
 
 ### Networking
 
-* What conferences / seminars / hackathons / etc should you attend?
-* Given answer to a), what deadlines are relevant?
+* What conferences / seminars / hackathons / etc should you attend?  What are the deadlines?
 * How can you expand your network in a way that will open doors? (Hints: blog, lab visits, internships, competitions)
 
 ### Recommendations
