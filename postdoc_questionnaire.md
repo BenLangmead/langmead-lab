@@ -3,7 +3,7 @@ Career questionnaire
 
 The purpose of a postdoc is to prepare you for your dream job. This is an extremely valuable time.  This document is one way that I will encourage you to do something you must do, no matter how painful it is.  You must make a plan.  This is not just a matter of listing your research goals, though that’s part of it.
 
-You will have to consider many "threads' along which you will make progress during your career at Hopkins.  You don’t have the luxury of taking these one at a time; you need to consider all the threads and weave a plan that (a) respects the calendar, (b) doesn’t drive you crazy, but (c) doesn’t leave anything out.  This is a preview of what it is like as an independent researcher. 
+You will have to consider many threads along which you will make progress during your postdoc.  You don’t have the luxury of taking these one at a time; you need to consider all the threads and weave a plan that (a) respects the calendar, (b) doesn’t drive you crazy, but (c) doesn’t leave anything out.  This is a preview of what it is like as an independent researcher. 
 
 You will consider:
 
@@ -29,10 +29,10 @@ The rest of this document is a worksheet for you to fill in and keep updated.  W
 * If you are considering academics what kinds of students would you like to mentor?
 * What kinds of colleagues would you like to have?
 * Paste links for three jobs that you like.  Why do you like those jobs?
-
+
 ### Who are you?
 
-* What is the coherent “story of you” that you want your CV to tell?
+* What is the "story of you" that you want your CV to tell?
 * What is it that you do better than everyone else?
 * What’s the 1-paragraph description of what you will do as an independent investigator?  (Find examples on websites of your favorite labs)
 * Who are the top 3 people/labs you admire and want to be like when you are independent?
